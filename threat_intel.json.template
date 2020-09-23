@@ -1,0 +1,13 @@
+{
+    "feeds" : [
+        {
+            "name" : "virustotal",
+            "token" : ""
+
+        },
+        {
+            "name" : "feed2",
+            "token" : ""
+        }
+    ]
+}
