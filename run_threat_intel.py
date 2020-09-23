@@ -4,7 +4,7 @@ import os
 
 def main():
 
-    print("Threat Intel Feed")
+    #print("Threat Intel Feed")
     my_path = os.path.dirname(os.path.abspath(__file__))
 
     with open(my_path + '\\threat_intel.json', 'r') as f:
