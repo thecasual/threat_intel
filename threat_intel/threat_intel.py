@@ -1,6 +1,5 @@
 import threat_intel.feeds as feeds
 
-
 def query(config, search):
 
     results = []
